@@ -1,0 +1,15 @@
+[2024-02-29T20:31:23.429-0300] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: TelegramBot.send_msg_1 manual__2024-02-29T23:31:21.673873+00:00 [queued]>
+[2024-02-29T20:31:23.437-0300] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: TelegramBot.send_msg_1 manual__2024-02-29T23:31:21.673873+00:00 [queued]>
+[2024-02-29T20:31:23.438-0300] {taskinstance.py:2193} INFO - Starting attempt 1 of 1
+[2024-02-29T20:31:23.454-0300] {taskinstance.py:2214} INFO - Executing <Task(TelegramOperator): send_msg_1> on 2024-02-29 23:31:21.673873+00:00
+[2024-02-29T20:31:23.460-0300] {standard_task_runner.py:60} INFO - Started process 56614 to run task
+[2024-02-29T20:31:23.471-0300] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'TelegramBot', 'send_msg_1', 'manual__2024-02-29T23:31:21.673873+00:00', '--job-id', '42', '--raw', '--subdir', 'DAGS_FOLDER/telegram_taskflow.py', '--cfg-path', '/tmp/tmp_mf26ali']
+[2024-02-29T20:31:23.472-0300] {standard_task_runner.py:88} INFO - Job 42: Subtask send_msg_1
+[2024-02-29T20:31:23.545-0300] {task_command.py:423} INFO - Running <TaskInstance: TelegramBot.send_msg_1 manual__2024-02-29T23:31:21.673873+00:00 [running]> on host victor-H81MHV3
+[2024-02-29T20:31:23.664-0300] {taskinstance.py:2510} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='TelegramBot' AIRFLOW_CTX_TASK_ID='send_msg_1' AIRFLOW_CTX_EXECUTION_DATE='2024-02-29T23:31:21.673873+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-02-29T23:31:21.673873+00:00'
+[2024-02-29T20:31:23.682-0300] {base.py:83} INFO - Using connection ID 'telegram_default' for task execution.
+[2024-02-29T20:31:23.695-0300] {base.py:83} INFO - Using connection ID 'telegram_default' for task execution.
+[2024-02-29T20:31:24.615-0300] {_client.py:1758} INFO - HTTP Request: POST https://api.telegram.org/bot6613580269:AAGsh-8sMCNqhJnWfSVxO3Z4xDKO0PkUxyU/sendMessage "HTTP/1.1 200 OK"
+[2024-02-29T20:31:24.635-0300] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=TelegramBot, task_id=send_msg_1, execution_date=20240229T233121, start_date=20240229T233123, end_date=20240229T233124
+[2024-02-29T20:31:24.679-0300] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2024-02-29T20:31:24.706-0300] {taskinstance.py:3309} INFO - 0 downstream tasks scheduled from follow-on schedule check

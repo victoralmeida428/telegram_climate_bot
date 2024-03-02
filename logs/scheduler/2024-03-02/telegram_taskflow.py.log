@@ -1,0 +1,308 @@
+[2024-03-02T09:36:56.875-0300] {processor.py:161} INFO - Started process (PID=7746) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:36:56.876-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:36:56.877-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:36:56.876-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:36:57.255-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:36:57.273-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:36:57.272-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:36:57.395-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:36:57.395-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:36:57.416-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.544 seconds
+[2024-03-02T09:37:27.670-0300] {processor.py:161} INFO - Started process (PID=9182) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:37:27.671-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:37:27.672-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:37:27.672-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:37:28.089-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:37:28.184-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:37:28.183-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:37:28.205-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:37:28.204-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:37:28.225-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.558 seconds
+[2024-03-02T09:37:58.789-0300] {processor.py:161} INFO - Started process (PID=9758) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:37:58.791-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:37:58.792-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:37:58.791-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:37:59.228-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:37:59.250-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:37:59.250-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:37:59.269-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:37:59.269-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:37:59.289-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.503 seconds
+[2024-03-02T09:38:30.146-0300] {processor.py:161} INFO - Started process (PID=10174) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:38:30.148-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:38:30.148-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:38:30.148-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:38:30.602-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:38:30.624-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:38:30.624-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:38:30.643-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:38:30.643-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:38:30.658-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.515 seconds
+[2024-03-02T09:39:01.542-0300] {processor.py:161} INFO - Started process (PID=10693) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:39:01.543-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:39:01.544-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:39:01.544-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:39:02.035-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:39:02.060-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:39:02.060-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:39:02.081-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:39:02.081-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:39:02.101-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.561 seconds
+[2024-03-02T09:39:32.901-0300] {processor.py:161} INFO - Started process (PID=11330) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:39:32.903-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:39:32.904-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:39:32.903-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:39:33.344-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:39:33.367-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:39:33.367-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:39:33.385-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:39:33.384-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:39:33.400-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.501 seconds
+[2024-03-02T09:40:04.210-0300] {processor.py:161} INFO - Started process (PID=11806) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:40:04.212-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:40:04.213-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:40:04.212-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:40:04.645-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:40:04.667-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:40:04.667-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:40:04.687-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:40:04.687-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:40:04.703-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.497 seconds
+[2024-03-02T09:40:35.389-0300] {processor.py:161} INFO - Started process (PID=12183) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:40:35.390-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:40:35.391-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:40:35.390-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:40:35.856-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:40:35.879-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:40:35.879-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:40:35.903-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:40:35.902-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:40:35.921-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.535 seconds
+[2024-03-02T09:41:05.967-0300] {processor.py:161} INFO - Started process (PID=12665) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:41:05.968-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:41:05.968-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:41:05.968-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:41:06.572-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:41:06.597-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:41:06.597-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:41:06.620-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:41:06.619-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:41:06.643-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.680 seconds
+[2024-03-02T09:41:37.046-0300] {processor.py:161} INFO - Started process (PID=12974) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:41:37.048-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:41:37.049-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:41:37.049-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:41:37.552-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:41:37.578-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:41:37.577-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:41:37.602-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:41:37.602-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:41:37.622-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.579 seconds
+[2024-03-02T09:42:08.078-0300] {processor.py:161} INFO - Started process (PID=13618) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:42:08.078-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:42:08.079-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:42:08.079-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:42:08.590-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:42:08.616-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:42:08.616-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:42:08.640-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:42:08.640-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:42:08.660-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.585 seconds
+[2024-03-02T09:42:39.062-0300] {processor.py:161} INFO - Started process (PID=13959) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:42:39.063-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:42:39.064-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:42:39.063-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:42:39.675-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:42:39.702-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:42:39.701-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:42:39.728-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:42:39.727-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:42:39.747-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.688 seconds
+[2024-03-02T09:43:09.969-0300] {processor.py:161} INFO - Started process (PID=14425) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:43:09.970-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:43:09.971-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:43:09.970-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:43:10.495-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:43:10.520-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:43:10.519-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:43:10.543-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:43:10.543-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:43:10.568-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.602 seconds
+[2024-03-02T09:43:40.918-0300] {processor.py:161} INFO - Started process (PID=14748) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:43:40.921-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:43:40.922-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:43:40.921-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:43:41.399-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:43:41.424-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:43:41.424-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:43:41.446-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:43:41.446-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:43:41.465-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.549 seconds
+[2024-03-02T09:44:12.332-0300] {processor.py:161} INFO - Started process (PID=15230) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:44:12.332-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:44:12.333-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:44:12.333-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:44:12.823-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:44:12.848-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:44:12.848-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:44:12.870-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:44:12.870-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:44:12.888-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.559 seconds
+[2024-03-02T09:44:42.938-0300] {processor.py:161} INFO - Started process (PID=15553) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:44:42.939-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:44:42.940-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:44:42.940-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:44:43.448-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:44:43.476-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:44:43.475-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:44:43.498-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:44:43.498-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:44:43.522-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.591 seconds
+[2024-03-02T09:45:13.684-0300] {processor.py:161} INFO - Started process (PID=16038) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:45:13.685-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:45:13.686-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:45:13.686-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:45:14.233-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:45:14.259-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:45:14.258-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:45:14.281-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:45:14.280-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:45:14.298-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.617 seconds
+[2024-03-02T09:45:44.953-0300] {processor.py:161} INFO - Started process (PID=16545) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:45:44.954-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:45:44.955-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:45:44.954-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:45:45.423-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:45:45.448-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:45:45.448-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:45:45.468-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:45:45.468-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:45:45.487-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.537 seconds
+[2024-03-02T09:46:16.375-0300] {processor.py:161} INFO - Started process (PID=17032) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:46:16.376-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:46:16.376-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:46:16.376-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:46:16.866-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:46:16.894-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:46:16.893-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:46:16.917-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:46:16.917-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:46:16.936-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.565 seconds
+[2024-03-02T09:46:47.218-0300] {processor.py:161} INFO - Started process (PID=17354) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:46:47.219-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:46:47.220-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:46:47.220-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:46:47.701-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:46:47.726-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:46:47.725-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:46:47.747-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:46:47.747-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:46:47.767-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.552 seconds
+[2024-03-02T09:47:17.822-0300] {processor.py:161} INFO - Started process (PID=18016) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:47:17.823-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:47:17.824-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:47:17.824-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:47:18.335-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:47:18.361-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:47:18.360-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:47:18.397-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:47:18.396-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:47:18.429-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.610 seconds
+[2024-03-02T09:47:48.807-0300] {processor.py:161} INFO - Started process (PID=18330) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:47:48.809-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:47:48.811-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:47:48.810-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:47:49.270-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:47:49.293-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:47:49.292-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:47:49.313-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:47:49.313-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:47:49.333-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.529 seconds
+[2024-03-02T09:48:19.415-0300] {processor.py:161} INFO - Started process (PID=18819) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:48:19.416-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:48:19.417-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:48:19.416-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:48:19.900-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:48:19.926-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:48:19.925-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:48:19.947-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:48:19.946-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:48:19.967-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.555 seconds
+[2024-03-02T09:48:50.076-0300] {processor.py:161} INFO - Started process (PID=19162) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:48:50.078-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:48:50.079-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:48:50.079-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:48:50.668-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:48:50.693-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:48:50.693-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:48:50.715-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:48:50.715-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:48:50.733-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.661 seconds
+[2024-03-02T09:49:20.964-0300] {processor.py:161} INFO - Started process (PID=19644) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:49:20.965-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:49:20.966-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:49:20.966-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:49:21.451-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:49:21.475-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:49:21.474-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:49:21.494-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:49:21.494-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:49:21.512-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.552 seconds
+[2024-03-02T09:49:51.680-0300] {processor.py:161} INFO - Started process (PID=19966) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:49:51.682-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:49:51.684-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:49:51.683-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:49:52.159-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:49:52.185-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:49:52.185-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:49:52.207-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:49:52.206-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:49:52.225-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.547 seconds
+[2024-03-02T09:50:22.330-0300] {processor.py:161} INFO - Started process (PID=20447) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:50:22.331-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:50:22.331-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:50:22.331-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:50:22.813-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:50:22.837-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:50:22.837-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:50:22.859-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:50:22.859-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:50:22.876-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.549 seconds
+[2024-03-02T09:50:53.756-0300] {processor.py:161} INFO - Started process (PID=20805) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:50:53.757-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:50:53.758-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:50:53.758-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:50:54.243-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:50:54.267-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:50:54.266-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:50:54.287-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:50:54.286-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:50:54.306-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.553 seconds
+[2024-03-02T09:51:24.492-0300] {processor.py:161} INFO - Started process (PID=21286) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:51:24.493-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:51:24.494-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:51:24.494-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:51:24.975-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:51:25.000-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:51:25.000-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:51:25.023-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:51:25.022-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:51:25.040-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.551 seconds
+[2024-03-02T09:51:55.499-0300] {processor.py:161} INFO - Started process (PID=21617) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:51:55.501-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:51:55.502-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:51:55.501-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:51:55.966-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:51:55.991-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:51:55.991-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:51:56.011-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:51:56.011-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:51:56.030-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.535 seconds
+[2024-03-02T09:52:26.165-0300] {processor.py:161} INFO - Started process (PID=22287) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:52:26.166-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:52:26.167-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:52:26.166-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:52:26.651-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:52:26.675-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:52:26.674-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:52:26.698-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:52:26.698-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:52:26.716-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.553 seconds
+[2024-03-02T09:52:56.928-0300] {processor.py:161} INFO - Started process (PID=22619) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:52:56.929-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:52:56.930-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:52:56.930-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:52:57.417-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:52:57.441-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:52:57.441-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:52:57.462-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:52:57.461-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:52:57.480-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.556 seconds
+[2024-03-02T09:53:27.562-0300] {processor.py:161} INFO - Started process (PID=23105) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:53:27.563-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:53:27.564-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:53:27.564-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:53:28.016-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:53:28.039-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:53:28.039-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:53:28.061-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:53:28.061-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:53:28.079-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.519 seconds
+[2024-03-02T09:53:58.223-0300] {processor.py:161} INFO - Started process (PID=23451) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:53:58.224-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:53:58.225-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:53:58.225-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:53:58.694-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:53:58.719-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:53:58.718-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:53:58.742-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:53:58.742-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:53:58.760-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.540 seconds
+[2024-03-02T09:54:29.116-0300] {processor.py:161} INFO - Started process (PID=24094) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:54:29.117-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:54:29.118-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:54:29.118-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:54:29.665-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:54:29.691-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:54:29.690-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:54:29.716-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:54:29.715-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:54:29.753-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.641 seconds
+[2024-03-02T09:55:00.288-0300] {processor.py:161} INFO - Started process (PID=24671) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:55:00.289-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:55:00.290-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:55:00.290-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:55:00.722-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:55:00.743-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:55:00.742-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:55:00.764-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:55:00.763-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:55:00.784-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.498 seconds
+[2024-03-02T09:55:31.131-0300] {processor.py:161} INFO - Started process (PID=25158) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:55:31.131-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:55:31.132-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:55:31.132-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:55:31.609-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:55:31.634-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:55:31.633-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:55:31.654-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:55:31.654-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:55:31.673-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.545 seconds
+[2024-03-02T09:56:01.738-0300] {processor.py:161} INFO - Started process (PID=25688) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:56:01.739-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:56:01.740-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:56:01.740-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:56:02.198-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:56:02.221-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:56:02.220-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:56:02.239-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:56:02.239-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:56:02.255-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.520 seconds
+[2024-03-02T09:56:32.369-0300] {processor.py:161} INFO - Started process (PID=26030) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:56:32.370-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:56:32.371-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:56:32.371-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:56:32.831-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:56:32.855-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:56:32.854-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:56:32.875-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:56:32.875-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:56:32.892-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.525 seconds
+[2024-03-02T09:57:02.957-0300] {processor.py:161} INFO - Started process (PID=26599) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:57:02.958-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:57:02.959-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:57:02.958-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:57:03.378-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:57:03.399-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:57:03.398-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:57:03.416-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:57:03.415-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:57:03.431-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.476 seconds
+[2024-03-02T09:57:33.476-0300] {processor.py:161} INFO - Started process (PID=27022) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:57:33.477-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:57:33.478-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:57:33.477-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:57:33.888-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:57:33.908-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:57:33.908-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:57:33.926-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:57:33.926-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:57:33.941-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.468 seconds
+[2024-03-02T09:58:04.290-0300] {processor.py:161} INFO - Started process (PID=27562) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:58:04.292-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:58:04.293-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:58:04.293-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:58:04.826-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:58:04.853-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:58:04.852-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:58:04.876-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:58:04.876-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:58:04.901-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.616 seconds
+[2024-03-02T09:58:34.980-0300] {processor.py:161} INFO - Started process (PID=28923) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:58:34.981-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:58:34.981-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:58:34.981-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:58:35.434-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:58:35.457-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:58:35.457-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:58:35.477-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:58:35.477-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:58:35.496-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.520 seconds
+[2024-03-02T09:59:05.544-0300] {processor.py:161} INFO - Started process (PID=29457) to work on /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:59:05.545-0300] {processor.py:830} INFO - Processing file /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py for tasks to queue
+[2024-03-02T09:59:05.545-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:59:05.545-0300] {dagbag.py:540} INFO - Filling up the DagBag from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:59:05.965-0300] {processor.py:840} INFO - DAG(s) 'TelegramBot' retrieved from /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py
+[2024-03-02T09:59:05.990-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:59:05.990-0300] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-02T09:59:06.010-0300] {logging_mixin.py:188} INFO - [2024-03-02T09:59:06.010-0300] {dag.py:3834} INFO - Setting next_dagrun for TelegramBot to 2024-03-02 00:00:00+00:00, run_after=2024-03-03 00:00:00+00:00
+[2024-03-02T09:59:06.027-0300] {processor.py:183} INFO - Processing /home/victor/Área de Trabalho/airflow/dags/telegram_taskflow.py took 0.486 seconds

@@ -1,0 +1,1 @@
+[2024-02-29T20:21:11.931-0300] {scheduler_job_runner.py:781} ERROR - Executor reports task instance <TaskInstance: TelegramBot.send_msg_1 manual__2024-02-29T23:21:07.738832+00:00 [queued]> finished (success) although the task says it's queued. (Info: None) Was the task killed externally?

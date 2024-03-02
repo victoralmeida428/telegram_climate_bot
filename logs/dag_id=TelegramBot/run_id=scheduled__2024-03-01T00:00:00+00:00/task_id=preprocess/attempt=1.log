@@ -1,0 +1,16 @@
+[2024-03-02T09:37:01.128-0300] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: TelegramBot.preprocess scheduled__2024-03-01T00:00:00+00:00 [queued]>
+[2024-03-02T09:37:01.136-0300] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: TelegramBot.preprocess scheduled__2024-03-01T00:00:00+00:00 [queued]>
+[2024-03-02T09:37:01.136-0300] {taskinstance.py:2193} INFO - Starting attempt 1 of 1
+[2024-03-02T09:37:01.149-0300] {taskinstance.py:2214} INFO - Executing <Task(_PythonDecoratedOperator): preprocess> on 2024-03-01 00:00:00+00:00
+[2024-03-02T09:37:01.156-0300] {standard_task_runner.py:60} INFO - Started process 8105 to run task
+[2024-03-02T09:37:01.161-0300] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'TelegramBot', 'preprocess', 'scheduled__2024-03-01T00:00:00+00:00', '--job-id', '69', '--raw', '--subdir', 'DAGS_FOLDER/telegram_taskflow.py', '--cfg-path', '/tmp/tmplrukzh23']
+[2024-03-02T09:37:01.162-0300] {standard_task_runner.py:88} INFO - Job 69: Subtask preprocess
+[2024-03-02T09:37:01.228-0300] {task_command.py:423} INFO - Running <TaskInstance: TelegramBot.preprocess scheduled__2024-03-01T00:00:00+00:00 [running]> on host victor-H81MHV3
+[2024-03-02T09:37:01.364-0300] {taskinstance.py:2510} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='TelegramBot' AIRFLOW_CTX_TASK_ID='preprocess' AIRFLOW_CTX_EXECUTION_DATE='2024-03-01T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-03-01T00:00:00+00:00'
+[2024-03-02T09:37:01.381-0300] {python.py:202} INFO - Done. Returned value was:          data   min   max  amplitude
+0  2024-03-02  21.6  29.3        7.7
+1  2024-03-03  20.6  30.9       10.3
+2  2024-03-04  21.0  33.2       12.2
+[2024-03-02T09:37:01.460-0300] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=TelegramBot, task_id=preprocess, execution_date=20240301T000000, start_date=20240302T123701, end_date=20240302T123701
+[2024-03-02T09:37:01.495-0300] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2024-03-02T09:37:01.530-0300] {taskinstance.py:3309} INFO - 2 downstream tasks scheduled from follow-on schedule check
